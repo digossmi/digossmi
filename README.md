@@ -9,4 +9,3 @@ Back-end developer
 <br/>
 [![Backend](https://skillicons.dev/icons?i=java,nodejs,cs,dotnet,php,redis,mysql,postgres,sqlite&theme=dark&perline=3)](https://github.com/digossmi) 
 <br/>
-🎰 Gambling and sports betting developer
